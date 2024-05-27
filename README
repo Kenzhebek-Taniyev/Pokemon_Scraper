@@ -1,0 +1,7 @@
+Unit testing: 
+!python -m unittest discover -s scraper
+
+Main scraper: 
+!python main.py
+
+For optimization: aiohttp and asyncio were used
